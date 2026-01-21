@@ -1,0 +1,5 @@
+{
+  "name": "CourtSync Admin Dashboard",
+  "description": "A comprehensive administrative dashboard for managing badminton court bookings, event requests, and user logs with Firebase integration.",
+  "requestFramePermissions": []
+}
